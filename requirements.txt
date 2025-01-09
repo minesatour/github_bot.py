@@ -1,0 +1,2 @@
+PyGithub>=1.55     # GitHub API client library
+pytest>=6.0        # Testing library (if you're writing tests)
